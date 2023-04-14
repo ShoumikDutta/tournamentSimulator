@@ -1,6 +1,7 @@
 # tournamentSimulator
 
 Sports Tournament Simulation
+
 This program simulates a sports tournament and calculates each team's chances of winning based on the simulation results. The simulation uses the Elo rating system, which is commonly used to rate chess players but can be applied to other sports as well.
 
 Requirements
